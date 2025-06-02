@@ -12,14 +12,3 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=SYED-MHAMIL&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SYED-MHAMIL&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
-
-<div align="center">
-  <img src="?theme=dark" alt="Widget with the current Spotify song"  />
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/SYED-MHAMIL/SYED-MHAMIL/output/snake.svg" alt="Snake animation" />
-
-###
